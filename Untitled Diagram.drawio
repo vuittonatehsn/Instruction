@@ -1,4 +1,4 @@
-<mxfile modified="2021-03-09T14:29:42.365Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="gate3cm9ovKYBbEoyOBM" version="14.4.5" type="github">
+<mxfile modified="2021-03-09T16:21:35.259Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Zo2ySuW5EPlXZifcebhn" version="14.4.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1504" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="qMT9t0mZY9mpns1QdVDe-43" value="Query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="610" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qMT9t0mZY9mpns1QdVDe-44" value="microservice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qMT9t0mZY9mpns1QdVDe-44" value="Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="184.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qMT9t0mZY9mpns1QdVDe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.066;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMT9t0mZY9mpns1QdVDe-46" target="qMT9t0mZY9mpns1QdVDe-63">
